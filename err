@@ -1,0 +1,8 @@
+// handle error
+try {
+//create error
+throw new("Virus fuck");
+}catch(err) {       
+consol.log(err);   
+ }
+    

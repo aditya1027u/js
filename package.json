@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "console.log(\"Aditya is coading\");\r console.log(\"typeof 123124\");\r console.log(\"typeof 38648756356935\");\r console.log(\"typeof true\");\r console.log(\"typeof false\");\r console.log(\"typeof undefined);",
+  "main": "h.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditya1027u/js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditya1027u/js/issues"
+  },
+  "homepage": "https://github.com/aditya1027u/js#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
